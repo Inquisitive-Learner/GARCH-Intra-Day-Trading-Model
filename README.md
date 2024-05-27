@@ -1,0 +1,1 @@
+# GARCH-Intra-Day-Trading-Model
